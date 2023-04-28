@@ -10,4 +10,4 @@ entries:
     - ./my-chart-0.1.0.tgz
     # - https://example.org/my-chart-0.1.0.tgz
     # - https://example.net/my-chart-0.1.0.tgz
-    digest: sha256:abcd1234efgh5678ijklmnopqrstuvwxyzaabbccddeeff00112233445566778899
+    # digest: sha256:abcd1234efgh5678ijklmnopqrstuvwxyzaabbccddeeff00112233445566778899
